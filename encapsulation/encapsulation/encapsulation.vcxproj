@@ -131,6 +131,7 @@
     <ClCompile Include="AMovable.cpp" />
     <ClCompile Include="encapsulation.cpp" />
     <ClCompile Include="Entity.cpp" />
+    <ClCompile Include="Integer.cpp" />
     <ClCompile Include="StaticObject.cpp" />
     <ClCompile Include="Vector2.cpp" />
   </ItemGroup>
@@ -139,6 +140,7 @@
     <ClInclude Include="AMovable.h" />
     <ClInclude Include="Entity.h" />
     <ClInclude Include="IAttacker.h" />
+    <ClInclude Include="Integer.h" />
     <ClInclude Include="StaticObject.h" />
     <ClInclude Include="Vector2.h" />
   </ItemGroup>

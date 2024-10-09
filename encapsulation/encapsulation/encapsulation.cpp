@@ -3,9 +3,11 @@
 #include "BreakableObject.h"
 #include "Mob.h"
 #include "Player.h"
+#include "Integer.h"
+
 
 int main() {
-        std::cout << "\n=== StaticObject ===" << std::endl;
+        /*std::cout << "\n=== StaticObject ===" << std::endl;
     StaticObject staticObj(0.0f, 0.0f);
 
         std::cout << "\n=== BreakableObject ===" << std::endl;
@@ -23,6 +25,16 @@ int main() {
     BreakableObject target(4.0f, 4.0f, 25.0f);
     player.attack(&target);
     std::cout << "Vie restante de la cible : " << target.getCurrentHealth() << std::endl;
+    */
+
+
+    Integer a1 = 2;
+    Integer a2 = 2;
+
+    a1.Pow(3) ;
+
+    std::cout<<a1.a<<std::endl;
+
 
     return 0;
 }

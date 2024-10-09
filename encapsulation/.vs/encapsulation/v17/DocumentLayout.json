@@ -1,26 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Remy\\Documents\\GitHub\\Encapsulation\\encapsulation\\",
+  "WorkspaceRootPath": "C:\\Users\\rmagne\\Documents\\GitHub\\Encapsulation\\encapsulation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64C70D88-3F9E-487A-A2E7-8695FE079A29}|encapsulation\\encapsulation.vcxproj|C:\\Users\\Remy\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\Alive.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{64C70D88-3F9E-487A-A2E7-8695FE079A29}|encapsulation\\encapsulation.vcxproj|solutionrelative:encapsulation\\Alive.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{64C70D88-3F9E-487A-A2E7-8695FE079A29}|encapsulation\\encapsulation.vcxproj|C:\\Users\\rmagne\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\IAttacker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64C70D88-3F9E-487A-A2E7-8695FE079A29}|encapsulation\\encapsulation.vcxproj|solutionrelative:encapsulation\\IAttacker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64C70D88-3F9E-487A-A2E7-8695FE079A29}|encapsulation\\encapsulation.vcxproj|C:\\Users\\Remy\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\AMovable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{64C70D88-3F9E-487A-A2E7-8695FE079A29}|encapsulation\\encapsulation.vcxproj|C:\\Users\\rmagne\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64C70D88-3F9E-487A-A2E7-8695FE079A29}|encapsulation\\encapsulation.vcxproj|solutionrelative:encapsulation\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C70D88-3F9E-487A-A2E7-8695FE079A29}|encapsulation\\encapsulation.vcxproj|C:\\Users\\rmagne\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\Integer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64C70D88-3F9E-487A-A2E7-8695FE079A29}|encapsulation\\encapsulation.vcxproj|solutionrelative:encapsulation\\Integer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C70D88-3F9E-487A-A2E7-8695FE079A29}|encapsulation\\encapsulation.vcxproj|C:\\Users\\rmagne\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\encapsulation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64C70D88-3F9E-487A-A2E7-8695FE079A29}|encapsulation\\encapsulation.vcxproj|solutionrelative:encapsulation\\encapsulation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C70D88-3F9E-487A-A2E7-8695FE079A29}|encapsulation\\encapsulation.vcxproj|C:\\Users\\rmagne\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\Integer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64C70D88-3F9E-487A-A2E7-8695FE079A29}|encapsulation\\encapsulation.vcxproj|solutionrelative:encapsulation\\Integer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C70D88-3F9E-487A-A2E7-8695FE079A29}|encapsulation\\encapsulation.vcxproj|C:\\Users\\rmagne\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\AMovable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{64C70D88-3F9E-487A-A2E7-8695FE079A29}|encapsulation\\encapsulation.vcxproj|solutionrelative:encapsulation\\AMovable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64C70D88-3F9E-487A-A2E7-8695FE079A29}|encapsulation\\encapsulation.vcxproj|C:\\Users\\Remy\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\Entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{64C70D88-3F9E-487A-A2E7-8695FE079A29}|encapsulation\\encapsulation.vcxproj|solutionrelative:encapsulation\\Entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{64C70D88-3F9E-487A-A2E7-8695FE079A29}|encapsulation\\encapsulation.vcxproj|C:\\Users\\rmagne\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\Vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64C70D88-3F9E-487A-A2E7-8695FE079A29}|encapsulation\\encapsulation.vcxproj|solutionrelative:encapsulation\\Vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64C70D88-3F9E-487A-A2E7-8695FE079A29}|encapsulation\\encapsulation.vcxproj|C:\\Users\\Remy\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\StaticObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{64C70D88-3F9E-487A-A2E7-8695FE079A29}|encapsulation\\encapsulation.vcxproj|solutionrelative:encapsulation\\StaticObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{64C70D88-3F9E-487A-A2E7-8695FE079A29}|encapsulation\\encapsulation.vcxproj|C:\\Users\\rmagne\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\Alive.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64C70D88-3F9E-487A-A2E7-8695FE079A29}|encapsulation\\encapsulation.vcxproj|solutionrelative:encapsulation\\Alive.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64C70D88-3F9E-487A-A2E7-8695FE079A29}|encapsulation\\encapsulation.vcxproj|C:\\Users\\Remy\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\Vector2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{64C70D88-3F9E-487A-A2E7-8695FE079A29}|encapsulation\\encapsulation.vcxproj|solutionrelative:encapsulation\\Vector2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{64C70D88-3F9E-487A-A2E7-8695FE079A29}|encapsulation\\encapsulation.vcxproj|C:\\Users\\rmagne\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\AMovable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64C70D88-3F9E-487A-A2E7-8695FE079A29}|encapsulation\\encapsulation.vcxproj|solutionrelative:encapsulation\\AMovable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C70D88-3F9E-487A-A2E7-8695FE079A29}|encapsulation\\encapsulation.vcxproj|C:\\Users\\rmagne\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\Alive.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64C70D88-3F9E-487A-A2E7-8695FE079A29}|encapsulation\\encapsulation.vcxproj|solutionrelative:encapsulation\\Alive.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +50,142 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Integer.cpp",
+              "DocumentMoniker": "C:\\Users\\rmagne\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\Integer.cpp",
+              "RelativeDocumentMoniker": "encapsulation\\Integer.cpp",
+              "ToolTip": "C:\\Users\\rmagne\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\Integer.cpp",
+              "RelativeToolTip": "encapsulation\\Integer.cpp",
+              "ViewState": "AgIAAD0AAAAAAAAAAIAwwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-09T12:37:03.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
           "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Vector2.cpp",
-              "DocumentMoniker": "C:\\Users\\Remy\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\Vector2.cpp",
-              "RelativeDocumentMoniker": "encapsulation\\Vector2.cpp",
-              "ToolTip": "C:\\Users\\Remy\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\Vector2.cpp",
-              "RelativeToolTip": "encapsulation\\Vector2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-09T09:50:19.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "StaticObject.cpp",
-              "DocumentMoniker": "C:\\Users\\Remy\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\StaticObject.cpp",
-              "RelativeDocumentMoniker": "encapsulation\\StaticObject.cpp",
-              "ToolTip": "C:\\Users\\Remy\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\StaticObject.cpp",
-              "RelativeToolTip": "encapsulation\\StaticObject.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "encapsulation.cpp",
+              "DocumentMoniker": "C:\\Users\\rmagne\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\encapsulation.cpp",
+              "RelativeDocumentMoniker": "encapsulation\\encapsulation.cpp",
+              "ToolTip": "C:\\Users\\rmagne\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\encapsulation.cpp",
+              "RelativeToolTip": "encapsulation\\encapsulation.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-09T09:50:18.845Z",
+              "WhenOpened": "2024-10-09T12:23:15.369Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Entity.cpp",
-              "DocumentMoniker": "C:\\Users\\Remy\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\Entity.cpp",
-              "RelativeDocumentMoniker": "encapsulation\\Entity.cpp",
-              "ToolTip": "C:\\Users\\Remy\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\Entity.cpp",
-              "RelativeToolTip": "encapsulation\\Entity.cpp",
+              "DocumentIndex": 7,
+              "Title": "Alive.h",
+              "DocumentMoniker": "C:\\Users\\rmagne\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\Alive.h",
+              "RelativeDocumentMoniker": "encapsulation\\Alive.h",
+              "ToolTip": "C:\\Users\\rmagne\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\Alive.h",
+              "RelativeToolTip": "encapsulation\\Alive.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-09T09:50:18.171Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-09T12:09:24.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Integer.h",
+              "DocumentMoniker": "C:\\Users\\rmagne\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\Integer.h",
+              "RelativeDocumentMoniker": "encapsulation\\Integer.h",
+              "ToolTip": "C:\\Users\\rmagne\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\Integer.h",
+              "RelativeToolTip": "encapsulation\\Integer.h",
+              "ViewState": "AgIAAA4AAAAAAAAAAIAwwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-09T12:02:35.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AMovable.cpp",
-              "DocumentMoniker": "C:\\Users\\Remy\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\AMovable.cpp",
-              "RelativeDocumentMoniker": "encapsulation\\AMovable.cpp",
-              "ToolTip": "C:\\Users\\Remy\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\AMovable.cpp",
-              "RelativeToolTip": "encapsulation\\AMovable.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-09T09:50:17.304Z",
+              "Title": "Entity.h",
+              "DocumentMoniker": "C:\\Users\\rmagne\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\Entity.h",
+              "RelativeDocumentMoniker": "encapsulation\\Entity.h",
+              "ToolTip": "C:\\Users\\rmagne\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\Entity.h",
+              "RelativeToolTip": "encapsulation\\Entity.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-09T12:20:19.481Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Alive.cpp",
-              "DocumentMoniker": "C:\\Users\\Remy\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\Alive.cpp",
-              "RelativeDocumentMoniker": "encapsulation\\Alive.cpp",
-              "ToolTip": "C:\\Users\\Remy\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\Alive.cpp",
-              "RelativeToolTip": "encapsulation\\Alive.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Title": "IAttacker.h",
+              "DocumentMoniker": "C:\\Users\\rmagne\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\IAttacker.h",
+              "RelativeDocumentMoniker": "encapsulation\\IAttacker.h",
+              "ToolTip": "C:\\Users\\rmagne\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\IAttacker.h",
+              "RelativeToolTip": "encapsulation\\IAttacker.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-09T12:20:59.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vector2.h",
+              "DocumentMoniker": "C:\\Users\\rmagne\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\Vector2.h",
+              "RelativeDocumentMoniker": "encapsulation\\Vector2.h",
+              "ToolTip": "C:\\Users\\rmagne\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\Vector2.h",
+              "RelativeToolTip": "encapsulation\\Vector2.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-09T11:42:29.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AMovable.cpp",
+              "DocumentMoniker": "C:\\Users\\rmagne\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\AMovable.cpp",
+              "RelativeDocumentMoniker": "encapsulation\\AMovable.cpp",
+              "ToolTip": "C:\\Users\\rmagne\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\AMovable.cpp",
+              "RelativeToolTip": "encapsulation\\AMovable.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-09T09:50:16.712Z",
+              "WhenOpened": "2024-10-09T12:09:38.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AMovable.h",
+              "DocumentMoniker": "C:\\Users\\rmagne\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\AMovable.h",
+              "RelativeDocumentMoniker": "encapsulation\\AMovable.h",
+              "ToolTip": "C:\\Users\\rmagne\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\AMovable.h",
+              "RelativeToolTip": "encapsulation\\AMovable.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-09T12:09:33.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Alive.cpp",
+              "DocumentMoniker": "C:\\Users\\rmagne\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\Alive.cpp",
+              "RelativeDocumentMoniker": "encapsulation\\Alive.cpp",
+              "ToolTip": "C:\\Users\\rmagne\\Documents\\GitHub\\Encapsulation\\encapsulation\\encapsulation\\Alive.cpp",
+              "RelativeToolTip": "encapsulation\\Alive.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-09T12:11:57.025Z",
               "EditorCaption": ""
             }
           ]
