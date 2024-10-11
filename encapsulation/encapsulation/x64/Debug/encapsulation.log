@@ -1,2 +1,14 @@
-﻿  Integer.cpp
+﻿  Alive.cpp
+  AMovable.cpp
+  BreakableObject.cpp
+  encapsulation.cpp
+  Entity.cpp
+  Integer.cpp
+  Mob.cpp
+  Player.cpp
+  StaticObject.cpp
+  Vector2.cpp
+  Génération de code en cours...
   encapsulation.vcxproj -> C:\Users\rmagne\Documents\GitHub\Encapsulation\encapsulation\x64\Debug\encapsulation.exe
+  'pwsh.exe' n'est pas reconnu en tant que commande interne
+  ou externe, un programme exécutable ou un fichier de commandes.

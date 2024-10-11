@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rmagne\Documents\GitHub\Encapsulation\encapsulation\encapsulation\</FILEPATH>
+      <FILENAME>Integer.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable 'Integer::a' n'est pas initialisée. Initialisez toujours une variable membre (type.6).</DESCRIPTION>
+    <FUNCTION>Integer::{ctor}</FUNCTION>
+    <DECORATED>??0Integer@@QEAA@XZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Integer::a</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

@@ -1,0 +1,82 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "La variable 'Integer::a' n'est pas initialisée. Initialisez toujours une variable membre (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rmagne/Documents/GitHub/Encapsulation/encapsulation/encapsulation/Integer.cpp"
+                },
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 10
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Integer::{ctor}",
+                  "decoratedName": "??0Integer@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Integer::a"
+          }
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.41.34120.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/Users/rmagne/Documents/GitHub/Encapsulation/encapsulation/encapsulation/Integer.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "11dc030089a1a7755bceefb13733c1c3f8a58b15ac0e1937c22813cf1e2e5dc2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rmagne/documents/github/encapsulation/encapsulation/encapsulation/integer.h"
+          },
+          "hashes": {
+            "sha-256": "a501efc9cceac8eaa02bf36163d6a68f78e81107a039ae1c2aab7eb44e5a7df2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rmagne/documents/github/encapsulation/encapsulation/encapsulation/vector2.h"
+          },
+          "hashes": {
+            "sha-256": "08d901d67a2c51aef45b6e88f7f2e8ac52dbce75f62a3c269fe07f669ef1c63c"
+          }
+        }
+      ]
+    }
+  ]
+}

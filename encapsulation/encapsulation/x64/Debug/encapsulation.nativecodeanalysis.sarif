@@ -1,0 +1,115 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.41.34120.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/rmagne/documents/github/encapsulation/encapsulation/encapsulation/encapsulation.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "4ed832a2dfcd5247a9b1fc8de159c40232bf1e28fb6a1cfe18e23424bdaedacc"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rmagne/documents/github/encapsulation/encapsulation/encapsulation/staticobject.h"
+          },
+          "hashes": {
+            "sha-256": "ace1dd3079a46a5a68d5c345443cd6449bb27779327d5c04e5687a8fabd5125a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rmagne/documents/github/encapsulation/encapsulation/encapsulation/entity.h"
+          },
+          "hashes": {
+            "sha-256": "5f19c05c5fac2cf93cd6c260ae8e6fb6e782c0a7dd44ca5d7afd2a3643cce6e6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rmagne/documents/github/encapsulation/encapsulation/encapsulation/vector2.h"
+          },
+          "hashes": {
+            "sha-256": "08d901d67a2c51aef45b6e88f7f2e8ac52dbce75f62a3c269fe07f669ef1c63c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rmagne/documents/github/encapsulation/encapsulation/encapsulation/breakableobject.h"
+          },
+          "hashes": {
+            "sha-256": "c024cb23ee367c785cccfae968cf55e79c610520d0bffd6154bdfc42ddec27b6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rmagne/documents/github/encapsulation/encapsulation/encapsulation/alive.h"
+          },
+          "hashes": {
+            "sha-256": "30bbf678d712e2ce506fd4a9f21be000ac3a8e28a5cd94a43f94233ba79acefe"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rmagne/documents/github/encapsulation/encapsulation/encapsulation/mob.h"
+          },
+          "hashes": {
+            "sha-256": "fb73a877ccada5edb2cb0e57321bb7f9eb98250af1b1636f00c410efe62ea82a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rmagne/documents/github/encapsulation/encapsulation/encapsulation/amovable.h"
+          },
+          "hashes": {
+            "sha-256": "9d70c404c10f75ed86de72b3b43a5269b3ca173897b6a7bd267c8c4faa0f7c0d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rmagne/documents/github/encapsulation/encapsulation/encapsulation/player.h"
+          },
+          "hashes": {
+            "sha-256": "64a75615ee007ac936c9e68c4e5b41edcd0bfdbb506e3ba4068d50ce97ef27dd"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rmagne/documents/github/encapsulation/encapsulation/encapsulation/iattacker.h"
+          },
+          "hashes": {
+            "sha-256": "11c556016a8dae65392cfcbeb163545ceb5fab90cb06ce1227382dc826526bae"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rmagne/documents/github/encapsulation/encapsulation/encapsulation/integer.h"
+          },
+          "hashes": {
+            "sha-256": "a501efc9cceac8eaa02bf36163d6a68f78e81107a039ae1c2aab7eb44e5a7df2"
+          }
+        }
+      ]
+    }
+  ]
+}
